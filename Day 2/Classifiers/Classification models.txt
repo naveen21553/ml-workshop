@@ -1,9 +1,15 @@
+ -- Datasets
 from sklearn.datasets import load_digits
 
+ -- train_test_split()
+from sklerarn.cross_validation import train_test_split
 from sklearn.model_selection import train_test_split
+
+ -- classification models
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree  import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import confusion_matrix
 
+ -- metrices
+from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
