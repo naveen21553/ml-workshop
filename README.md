@@ -1,7 +1,7 @@
 # ml-workshop
 Machine Learning Workshop Files
 
-If you like the content, please let me know by giving a star.
+If you like the content, please star this repository
 If you feel there is something wrong, feel free to give a pull request
 
 The workshop is split in four days, Day 1 to 4
